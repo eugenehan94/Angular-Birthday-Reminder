@@ -1,0 +1,9 @@
+.project-container{
+    background-color: #fff;
+    width: 90vw;
+    margin: 5rem 0;
+    padding: 1.5rem 2rem;
+    max-width: 450px;
+    border-radius: 0.25rem;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+}

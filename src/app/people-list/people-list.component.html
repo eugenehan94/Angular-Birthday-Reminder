@@ -1,0 +1,7 @@
+<div *ngFor="let person of peopleInChildComponent" class="person-wrapper">
+    <img src="{{ person.image }}" alt="{{ person.name }}" />
+    <div>
+      <h3>{{ person.name }}</h3>
+      <p>{{ person.age }}&nbsp; years old</p>
+    </div>
+  </div>

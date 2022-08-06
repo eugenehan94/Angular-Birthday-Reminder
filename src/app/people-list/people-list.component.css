@@ -1,0 +1,7 @@
+.person-wrapper {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    column-gap: 0.75rem;
+    margin-bottom: 0.5rem;
+    align-items: center;
+}
